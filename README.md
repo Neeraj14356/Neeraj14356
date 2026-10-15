@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Neeraj Singh
 
-<!--
-**Neeraj14356/Neeraj14356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-Here are some ideas to get you started:
+I'm an MSc Mathematics graduate from **NIT Raipur**, passionate about data analytics, statistical analysis, and solving business problems using data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm currently building **Data Analytics projects** to solve real-world business problems.
+
+🌱 I'm skilled in **Python, SQL, Pandas, Power BI, Microsoft Excel, and Statistical Analysis**.
+
+📊 I enjoy performing **Exploratory Data Analysis (EDA), Data Cleaning, and Dashboard Development** to turn raw data into meaningful insights.
+
+📌 **Featured Projects**
+
+- 📚 [EduPulse — Student Retention & Dropout Analytics]([https://github.com/Neeraj14356](https://github.com/Neeraj14356/EduPulse-Student-Retention-Analysis))  
+  SQL, Python, Statistical Analysis & Power BI
+
+- 🛒 [E-Commerce Sales Analytics]([https://github.com/Neeraj14356](https://github.com/Neeraj14356/E-Commerce-Sales-Analytics))  
+  Python, Pandas, EDA & Power BI
+
+- 📈 [NovaMart Retail — Sales & Profitability Analysis](https://github.com/Neeraj14356/novamart-retail-sales-analysis)  
+  Microsoft Excel, Pivot Tables, Pivot Charts & Interactive Dashboard
+
+- 📈 [NovaMart Retail — Sales & Profitability Analysis](https://github.com/Neeraj14356/novamart-retail-sales-analysis)
+  Microsoft Excel, Pivot Tables, Pivot Charts, Slicers & Interactive Dashboard
+
+- 🧮 Scientific Calculator Web App  
+  Python & Streamlit
+
+### 🛠️ Skills & Tools
+
+- **Programming:** Python
+- **Database:** SQL
+- **Data Analysis:** Pandas, NumPy, EDA, Data Cleaning, Data Wrangling
+- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Microsoft Excel:** Pivot Tables, Dashboards, XLOOKUP, VLOOKUP
+- **Statistics:** Statistical Analysis, Hypothesis Testing, Linear Algebra
+- **Tools:** Jupyter Notebook, Git, GitHub, Streamlit
+
+🎓 **Education:** M.Sc. Mathematics — NIT Raipur
+
+🏆 **Achievement:** IIT JAM Qualified (2023)
+
+📜 **Certifications:** Python, SQL, Mathematics & Statistics for AI/Data Science — Codebasics
+
+🎯 **Career Goal:** Seeking entry-level Data Analyst opportunities where I can apply my analytical, statistical, and technical skills to support data-driven decision-making.
+
+📫 **Email:** nneeraj629@gmail.com
+
+📍 **Location:** Varanasi, India
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
