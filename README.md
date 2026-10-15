@@ -12,17 +12,14 @@ I'm an MSc Mathematics graduate from **NIT Raipur**, passionate about data analy
 
 📌 **Featured Projects**
 
-- 📚 [EduPulse — Student Retention & Dropout Analytics]([https://github.com/Neeraj14356](https://github.com/Neeraj14356/EduPulse-Student-Retention-Analysis))  
+- 📚 [EduPulse — Student Retention & Dropout Analytics]
   SQL, Python, Statistical Analysis & Power BI
 
-- 🛒 [E-Commerce Sales Analytics]([https://github.com/Neeraj14356](https://github.com/Neeraj14356/E-Commerce-Sales-Analytics))  
+- 🛒 [E-Commerce Sales Analytics]
   Python, Pandas, EDA & Power BI
 
-- 📈 [NovaMart Retail — Sales & Profitability Analysis](https://github.com/Neeraj14356/novamart-retail-sales-analysis)  
+- 📈 [NovaMart Retail — Sales & Profitability Analysis]
   Microsoft Excel, Pivot Tables, Pivot Charts & Interactive Dashboard
-
-- 📈 [NovaMart Retail — Sales & Profitability Analysis](https://github.com/Neeraj14356/novamart-retail-sales-analysis)
-  Microsoft Excel, Pivot Tables, Pivot Charts, Slicers & Interactive Dashboard
 
 - 🧮 Scientific Calculator Web App  
   Python & Streamlit
