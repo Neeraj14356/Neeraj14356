@@ -12,16 +12,16 @@ I'm an MSc Mathematics graduate from **NIT Raipur**, passionate about data analy
 
 📌 **Featured Projects**
 
-- 📚 [EduPulse — Student Retention & Dropout Analytics]
+- 📚 **EduPulse — Student Retention & Dropout Analytics**
   SQL, Python, Statistical Analysis & Power BI
 
-- 🛒 [E-Commerce Sales Analytics]
+- 🛒 **E-Commerce Sales Analytics**
   Python, Pandas, EDA & Power BI
 
-- 📈 [NovaMart Retail — Sales & Profitability Analysis]
+- 📈 **NovaMart Retail — Sales & Profitability Analysis**
   Microsoft Excel, Pivot Tables, Pivot Charts & Interactive Dashboard
 
-- 🧮 Scientific Calculator Web App  
+- 🧮** Scientific Calculator Web App ** 
   Python & Streamlit
 
 ### 🛠️ Skills & Tools
