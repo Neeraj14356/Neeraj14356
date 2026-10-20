@@ -21,7 +21,7 @@ I'm an MSc Mathematics graduate from **NIT Raipur**, passionate about data analy
 - 📈 **NovaMart Retail — Sales & Profitability Analysis**
   Microsoft Excel, Pivot Tables, Pivot Charts & Interactive Dashboard
 
-- 🧮** Scientific Calculator Web App ** 
+- 🧮 **Scientific Calculator Web App** 
   Python & Streamlit
 
 ### 🛠️ Skills & Tools
